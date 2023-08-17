@@ -1,7 +1,7 @@
 # Learning Project
 ## Building encoder libraries
 
-Building encoding and decoding functions.   These are (very) niave implementations, however: 
+Building encoding and decoding functions.   These are (very) naive implementations, however: 
 
 1. I want to better understand how encoding schemas are executed because actual crates take advantage of efficiencies like parallelism and bitwise operations vs looping.
     * While these dont exactly directly copy existing crates, I definitely reviewed them to see how they work.
