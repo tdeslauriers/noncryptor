@@ -1,4 +1,4 @@
-mod base64;
+pub mod base64;
 
 #[cfg(test)]
 mod tests {
